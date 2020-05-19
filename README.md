@@ -7,6 +7,9 @@ implementation of these algorithms using readily available libraries in R or Pyt
 assignments.
 
 Experiment 1 : Linera regression, Logistic Regression
+
 Experiment 2 : Support vector machine, Descision Tree, Boosting
+
 Experiment 3 : Artificaial neural network, K nearest neighbour
+
 Experiment 4 : Selection algorithm, PCA, ICA, Randomized projection

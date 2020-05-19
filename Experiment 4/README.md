@@ -1,16 +1,21 @@
 In this assignment, you will implement the following clustering algorithms:
   1. K-means
   2. Expectation Maximization
+  
 In addition, you will implement the following feature dimensionality reduction algorithms
 1. Any one feature selection algorithm (decision tree, forward selection, backward elimination,
 etc.)
+
   2. PCA
   3. ICA
   4. Randomized Projections
+  
 You must use R or Python for this assignment. You can use any publicly available R or Python
 library/package. You can even use H2O.
 For the following tasks, use the same two datasets that you used in assignment 3.
+
 Tasks:
+
   1. Run the clustering algorithms on your datasets and describe your observations (with plots).
   2. Apply the dimensionality reduction algorithms on your datasets and describe your observations
   (with plots).

@@ -11,10 +11,12 @@ cost/error function from the class. In addition you can also use accuracy/ROC/et
 
 Tasks:
 Part 1: Download the dataset and partition it randomly into train and test set using a good train/test split percentage.
+
 Part 2: Design a linear regression model to model the average GPU run time. Include your regression model equation in the report.
+
 Part 3: Implement the gradient descent algorithm with batch update rule. Use the same cost function as in the class (sum of squared error). Report your initial parameter values.
-Part 4: Convert this problem into a binary classification problem. The target variable should have two categories. Implement logistic regression to carry out classification on this data set. Report
-accuracy/error metrics for train and test sets.
+
+Part 4: Convert this problem into a binary classification problem. The target variable should have two categories. Implement logistic regression to carry out classification on this data set. Report accuracy/error metrics for train and test sets.
 
 Experimentation:
 1. Experiment with various parameters for linear and logistic regression (e.g. learning rate ∝) and report on your findings as how the error/accuracy varies for train and test sets with varying
